@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         print("Second commit change.")
         print("Fourth commit : changes done by cp_geek")
         print("Changes by cp_geek")
+
+        print("commit by master")
     }
 }
