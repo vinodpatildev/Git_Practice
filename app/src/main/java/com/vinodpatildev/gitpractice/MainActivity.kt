@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         print("Second commit change.")
         print("Fourth commit : changes done by cp_geek")
+        print("change by master")
     }
 }
